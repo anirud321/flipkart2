@@ -1,0 +1,18 @@
+.listmain img {
+    display: flex;
+    /* justify-content: space-between; */
+    padding-top: 20px;
+    height: 64px;
+    width: 64px;
+}
+
+.listmain {
+    display: flex;
+    flex-direction: row;
+    justify-content: space-between;
+}
+
+div img p {
+    font-weight: 600;
+    font-size: 14px;
+}

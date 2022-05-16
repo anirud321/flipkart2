@@ -1,0 +1,46 @@
+.main {
+  padding: 0%;
+  margin: 0%;
+}
+
+.navmain {
+  display: flex;
+  justify-content: center;
+  background-color: #2874f0;
+}
+
+.navmain div {
+  display: flex;
+  padding-left: 20px;
+  margin-left: 30px;
+  padding-top: 20px;
+}
+
+button {
+  margin-left: 20px;
+  width: 150px;
+  margin-bottom: 20px;
+  font-size: 1rem;
+  font-weight: 700;
+  color: #2874f0;
+}
+
+input {
+  /* padding: 5px; */
+  height: 30px;
+  width: 400px;
+  margin-bottom: 20px;
+}
+
+img {
+  display: flex;
+  width: 90px;
+  height: 50px;
+  padding-right: 10px;
+}
+
+nav div {
+  color: aliceblue;
+  font-size: 1.2rem;
+  font-weight: 500;
+}
